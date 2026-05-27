@@ -1,1 +1,1 @@
-# coard-checker
+# chord-checker
